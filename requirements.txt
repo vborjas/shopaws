@@ -1,4 +1,6 @@
 django==3.2
+wheel
 mysqlclient
 Pillow
 django-paypal
+gunicorn
